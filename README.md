@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # apna-ad-lgao-webapp
 
 ## Project setup
@@ -32,3 +33,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# apna-ad-lgao-webapp
+>>>>>>> 5a36cac7280aabedffff87caefa46869daed160f
